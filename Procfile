@@ -1,0 +1,1 @@
+worker: amadeus_bot.js
