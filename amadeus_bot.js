@@ -21,10 +21,10 @@ client.on('ready', () => {
         })
     })
     
-    // Game Dev Text Channel ID: 590797645778386945
     // Og Heckors Text Channel ID: 716904829947084808
+    // General Text Channel ID: 590797645778386945
 
-    let generalChannel = client.channels.cache.get("716904829947084808")
+    let generalChannel = client.channels.cache.get("590797645778386945")
     const welcomeMessage = new Discord.MessageEmbed()
     .setDescription("Hello! Thank you for adding me to your server! I help you to see the minimum and recommended requirements of a game without having to search it on the internet. To know more type `?help`. I was made by the team")
     .setAuthor("Amadeus", "https://imgur.com/RhOWL9U.png")
