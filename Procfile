@@ -1,1 +1,1 @@
-worker: amadeus_bot.js
+web: amadeus_bot.js
